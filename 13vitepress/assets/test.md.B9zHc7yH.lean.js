@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as i,a1 as n}from"./chunks/framework.BQEalSAU.js";const g=JSON.parse('{"title":"LROSS道德伦理审查委员会就勒庞镇事件的审查报告","description":"","frontmatter":{},"headers":[],"relativePath":"test.md","filePath":"test.md"}'),t={name:"test.md"},l=n("",18),e=[l];function p(h,k,r,E,d,o){return i(),a("div",null,e)}const u=s(t,[["render",p]]);export{g as __pageData,u as default};
